@@ -9,9 +9,9 @@
   The original FFT library code from ELM Chan has been not been modified. The example given by ELM Chan,
   AMurchick, and boolscott, to be used with processing, has been heavily modified to support an RGB audio
   spectrum visualizer. I'd like to give thanks to the developers above for writing the library and making
-  it available at no cost. I have no intentions of marketing this for a profit without first receiving
-  explicit permissions from the authors above. I'd like to give an enormous thanks to the authors above.
-  This project has been one of the most enjoyable and educational experiences so far.
+  it available at no cost.
+
+  This project has been one of the most enjoyable and educational experiences I've had.
   
   
   This program runs an FFT on the input from A0. I am using a signal from a 1/8 mm audio cord run through an
